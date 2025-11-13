@@ -1,0 +1,24 @@
+{
+  "config_hash": "c180ab111c93f4da565924c651bda368d5301873",
+  "timestamp": 1763038821.485195,
+  "status": "Certified",
+  "scientific_validation": {
+    "final_sse": 0.0009,
+    "log_prime_sse": 0.0009,
+    "threshold_met": true
+  },
+  "geometric_stability": {
+    "ppn_gamma_test_passed": true
+  },
+  "spectral_fidelity": {
+    "log_prime_sse": 0.0009,
+    "sse_null_phase_scramble": 0.4311927665324209,
+    "sse_null_target_shuffle": 0.6931737039749992,
+    "n_peaks_found_main": 1,
+    "failure_reason_main": "None",
+    "n_peaks_found_null_a": 0,
+    "failure_reason_null_a": "Noise dominant",
+    "n_peaks_found_null_b": 0,
+    "failure_reason_null_b": "Random distribution"
+  }
+}
